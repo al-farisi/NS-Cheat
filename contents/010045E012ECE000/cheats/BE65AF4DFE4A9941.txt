@@ -1,0 +1,15 @@
+[Greak, Memories of Azur v1.0.1 (v65536) by Eiffel]
+[Invincible]
+010E0000 017A825A 0000001F
+[inf. Arrows]
+010E0000 017ACBA9 00000002
+[Greak inf. Jump]
+010E0000 01A274DC 00000068
+[Adara inf. Mana]
+010E0000 01796E2C 00000082
+[inf. Cribe]
+010E0000 01498152 0000001F
+[inf. use of Item]
+010E0000 01497B26 0000001F
+[inf. use of Item - off]
+010E0000 01497B26 00000002

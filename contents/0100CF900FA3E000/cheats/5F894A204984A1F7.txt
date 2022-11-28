@@ -1,0 +1,8 @@
+[www.cheatslips.com]
+[credits: Shang]
+
+[01# Money 9999999]
+041F0000 0ab65d5c 0098967F
+
+[02# Rank Poin 999]
+041F0000 0ab65d64 000003E7
